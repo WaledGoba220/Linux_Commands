@@ -6,7 +6,7 @@ Linux Commands VirtualBox
 
 
 
-pwd ==> Display current Directory
+∎ pwd ==> Display current Directory
 
-ls  ==> list contents of the current directory
+∎ ls  ==> list contents of the current directory
 
