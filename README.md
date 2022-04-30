@@ -12,5 +12,7 @@ Linux Commands VirtualBox
 
 ∎ ls -la ==> list contents of the current directory with more details
 
+∎ mkdir ==> Make a directory  in current directory
+
 
 
