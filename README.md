@@ -16,6 +16,8 @@ Linux Commands VirtualBox
 
 ∎ rmdir ==> Remove a directory. The directory must be empty
 
+∎ rm -r ==> Remove a directory that is not empty
+
 
 
 
