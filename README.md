@@ -8,7 +8,7 @@ Linux Commands VirtualBox
 
 ∎ pwd ==> Display current Directory
 
-∎ ls  ==> list contents of the current directory
+∎ ls    ==> list contents of the current directory
 
 ∎ ls -la ==> list contents of the current directory with more details
 
