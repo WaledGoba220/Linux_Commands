@@ -20,6 +20,8 @@ Linux Commands VirtualBox
 
 ∎ cd dir-name ==> move to other directory
 
+∎ cd .. ==> back one step 
+
 
 
 
