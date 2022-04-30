@@ -18,6 +18,8 @@ Linux Commands VirtualBox
 
 ∎ rm -r ==> Remove a directory that is not empty
 
+∎ cd dir-name ==> move to other directory
+
 
 
 
