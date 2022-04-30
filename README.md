@@ -14,5 +14,8 @@ Linux Commands VirtualBox
 
 ∎ mkdir ==> Make a directory  in current directory
 
+∎ rmdir ==> Remove a directory. The directory must be empty
+
+
 
 
