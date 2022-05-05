@@ -42,8 +42,7 @@ Linux Commands VirtualBox
 
 ∎ help   ==>  To know more about a command and how to use it 
 
-
-   
+∎ cp   ==>  Use the cp command to copy files through the command line. It takes two arguments: The first is the location of the file to be copied, the second is where to copy. 
   
 
 
