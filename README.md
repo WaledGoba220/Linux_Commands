@@ -30,7 +30,22 @@ Linux Commands VirtualBox
 
 ∎ echo " " >> (file_name)   ==>  to add text in file
 
- ∎ cat (file_name)   ==>  to display file 
+∎ cat (file_name)   ==>  to display file 
+ 
+∎ mv oldname newname   ==>  rename a file and directory 
+  
+∎ mv filename dirpath   ==>  cut this file to this dir
+   
+∎ date   ==>  display date ,time
+
+∎ clear   ==>  clear terminal 
+
+
+
+
+   
+  
+
 
 
 
