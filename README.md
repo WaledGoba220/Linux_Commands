@@ -43,6 +43,8 @@ Linux Commands VirtualBox
 ∎ help   ==>  To know more about a command and how to use it 
 
 ∎ cp   ==>  Use the cp command to copy files through the command line. It takes two arguments: The first is the location of the file to be copied, the second is where to copy. 
+
+∎ locate   ==>  The locate command is used to locate a file in a Linux system, just like the search command in Windows
   
 
 
