@@ -28,6 +28,11 @@ Linux Commands VirtualBox
 
 ∎ rm (file_name)  ==> to remove file
 
+∎ echo " " >> (file_name)   ==>  to add text in file
+
+ ∎ cat (file_name)   ==>  to display file 
+
+
 
 
 
