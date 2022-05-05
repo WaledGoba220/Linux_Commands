@@ -40,7 +40,7 @@ Linux Commands VirtualBox
 
 ∎ clear   ==>  clear terminal 
 
-
+∎ help   ==>  To know more about a command and how to use it 
 
 
    
