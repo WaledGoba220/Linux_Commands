@@ -24,6 +24,14 @@ Linux Commands VirtualBox
 
 ∎ cd  ==> go to home directory 
 
+∎ touch (file_name)  ==> to create file in current directory
+
+∎ rm (file_name)  ==> to remove file
+
+
+
+
+
 
 
 
