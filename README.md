@@ -32,7 +32,7 @@ Linux Commands VirtualBox
 
 ∎ cat (file_name)   ==>  to display file 
  
-∎ mv oldname newname   ==>  rename a file and directory 
+∎ mv oldname newname   ==>  rename a file and directory  
   
 ∎ mv filename dirpath   ==>  cut this file to this dir
    
