@@ -47,7 +47,7 @@ Linux Commands VirtualBox
 ∎ locate   ==>  The locate command is used to locate a file in a Linux system, just like the search command in Windows
 
 
-∎ df   ==>  Use df command to get a report on the system’s disk space usage
+∎ df   ==>  Use df command to get a report on the system’s disk space usage 
   
 
 
